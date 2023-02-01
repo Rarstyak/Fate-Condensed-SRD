@@ -11,4 +11,4 @@ summary: ""
 ---
 #### Invoking to Declare Story Details
 
-You may add an important or unlikely detail to the story based on an aspect in play. Don’t spend a fate point when “aspects are always true” (**page XX**) applies. Pay when it’s a stretch—or, table willing, when there’s no relevant aspect.
+You may add an important or unlikely detail to the story based on an aspect in play. Don’t spend a fate point when “**[aspects are always true](../../Aspects-Are-Always-True/Aspects-Are-Always-True.md)**” applies. Pay when it’s a stretch—or, table willing, when there’s no relevant aspect.

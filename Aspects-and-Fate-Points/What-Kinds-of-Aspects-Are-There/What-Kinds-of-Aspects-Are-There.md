@@ -11,7 +11,7 @@ summary: ""
 ---
 ## What Kinds of Aspects Are There?
 
-There’s an endless variety of aspects (see **page XX** for more), but no matter what they’re called, they all work pretty much the same way. The main difference is how long they stick around before going away.
+There’s an **[endless variety of aspects](../Other-Kinds-of-Aspects/Other-Kinds-of-Aspects.md)**, but no matter what they’re called, they all work pretty much the same way. The main difference is how long they stick around before going away.
 
 ![Character-Aspects](Character-Aspects.md)
 

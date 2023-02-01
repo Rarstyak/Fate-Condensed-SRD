@@ -19,7 +19,7 @@ Defend is the only reactive action in _Fate Condensed_. You use it to stop some
 
 Your outcomes when defending are:
 
-- **[If you fail,](../Outcomes/Failure.md)** against an attack, you take a hit, which you must absorb with stress (**page XX**) or consequences (**page XX**). Regardless, the enemy succeeds as described for their action.
+- **[If you fail,](../Outcomes/Failure.md)** against an attack, you take a hit, which you must absorb with **[stress](../../Challenges-Conflicts-and-Contests/Conflicts/Taking-Harm/Stress.md)** or **[consequences](../../Challenges-Conflicts-and-Contests/Conflicts/Taking-Harm/Consequences.md)**. Regardless, the enemy succeeds as described for their action.
 - **[If you tie,](../Outcomes/Tie.md)** proceed according to the tie result for the opposed action.
 - **[If you succeed,](../Outcomes/Success.md)** you don’t take a hit or you deny the enemy’s action.
 - **[If you succeed with style,](../Outcomes/Success-with-Style.md)** you don’t take a hit, you deny the enemy’s action, and you even get a boost as you gain the upper hand for a moment.

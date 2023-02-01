@@ -29,4 +29,4 @@ It’s up to the GM to decide if a situation aspect arising from the scene’s s
 
 #### Zone Aspects
 
-A mentioned on **page XX**, Some situation aspects might apply to specific zones on the map, and not others. That’s okay—it can add some extra texture, opportunity, and challenge to the map that might be lacking otherwise.
+A mentioned in **[Other Kinds of Aspects](../../Aspects-and-Fate-Points/Other-Kinds-of-Aspects/Other-Kinds-of-Aspects.md)**, Some situation aspects might apply to specific zones on the map, and not others. That’s okay—it can add some extra texture, opportunity, and challenge to the map that might be lacking otherwise.

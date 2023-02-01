@@ -11,6 +11,6 @@ summary: ""
 ---
 ### Consequences
 
-These aspects represent injuries or other lasting trauma taken by absorbing a hit, often from attacks (**page XX**).
+These aspects represent injuries or other lasting trauma **[taken by absorbing a hit](../../Challenges-Conflicts-and-Contests/Conflicts/Taking-Harm/Consequences.md)**, often from attacks.
 
 **Examples:** **Sprained Ankle; Concussion; Debilitating Self-Doubt**

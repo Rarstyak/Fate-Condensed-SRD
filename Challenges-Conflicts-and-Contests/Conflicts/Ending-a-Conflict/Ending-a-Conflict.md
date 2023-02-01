@@ -11,4 +11,4 @@ summary: ""
 ---
 ### Ending a Conflict
 
-A conflict draws to a close when everyone on one side has either conceded or been taken out. At the end of a conflict, any players who conceded collect their fate points for the concession (**page XX**). The GM also pays out fate points owed to players for hostile invokes (**page XX**) that happened during the conflict.
+A conflict draws to a close when everyone on one side has either conceded or been taken out. At the end of a conflict, any players who conceded collect their fate points for the **[concession](../Taking-Harm/Conceding.md)**. The GM also pays out fate points owed to players for **[hostile invokes](../../../Aspects-and-Fate-Points/What-Can-I-Do-with-Aspects/Invokes/Hostile-Invocations.md)** that happened during the conflict.

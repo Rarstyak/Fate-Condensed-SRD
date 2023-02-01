@@ -19,8 +19,8 @@ A character good at Athletics can climb over walls and race through crowded stre
 
 Your outcomes when overcoming are:
 
-- **[If you fail,](../Outcomes/Failure.md)** discuss with the GM (and the defending player, if any) whether it’s a failure or success at a major cost (**page XX**).
-- **[If you tie,](../Outcomes/Tie.md)** it’s success at a minor cost (**page XX**)—you’re in a tough spot, the enemy gets a boost (**page XX**), or you may take a hit. Alternatively, you fail but gain a boost.
+- **[If you fail,](../Outcomes/Failure.md)** discuss with the GM (and the defending player, if any) whether it’s a failure or success at a major cost.
+- **[If you tie,](../Outcomes/Tie.md)** it’s success at a minor cost—you’re in a tough spot, the enemy gets a **[boost](../../Aspects-and-Fate-Points/What-Kinds-of-Aspects-Are-There/Boosts.md)**, or you may take a hit. Alternatively, you fail but gain a boost.
 - **[If you succeed,](../Outcomes/Success.md)** you meet your goal and the story moves on without hiccups.
 - **[If you succeed with style,](../Outcomes/Success-with-Style.md)** it’s a success and you also get a boost.
 

@@ -21,7 +21,7 @@ There are three kinds of obstacles: hazards, blocks, and distractions.
 
 ### Hazards
 
-If an obstacle can attack the PCs, it’s a **hazard**. Fire jets, rolling boulders, or a sniper too far away to be dealt with directly—they’re all hazards. Every hazard has a name, a skill rating, and a Weapon rating (**page XX**) of 1 to 4.
+If an obstacle can attack the PCs, it’s a **hazard**. Fire jets, rolling boulders, or a sniper too far away to be dealt with directly—they’re all hazards. Every hazard has a name, a skill rating, and a **[Weapon rating](Weapon-and-Armor-Ratings.md)**) of 1 to 4.
 
 The hazard’s name is both a skill and an aspect; that is, the name defines what the hazard can do, and its skill rating defines how good it is at doing that, but the name can also be invoked or compelled like any aspect.
 

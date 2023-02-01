@@ -17,7 +17,7 @@ NPCs include bystanders, supporting cast, allies, foes, monsters, and pretty muc
 
 If someone is particularly important to the story, you can stat them out just like a PC. This is appropriate for someone who the PCs will deal with a lot, such as an ally, a rival, the representative of a powerful group, or a Big Bad.
 
-A major NPC doesn’t necessarily follow the same limits as a starting PC. If the NPC is going to be a recurring boss-level threat, give them a higher peak skill (see _Setting Difficulty and Opposition_ on **page XX**), more stunts, and whatever else it takes to make them a danger.
+A major NPC doesn’t necessarily follow the same limits as a starting PC. If the NPC is going to be a recurring boss-level threat, give them a higher peak skill (see **[Setting Difficulty and Opposition](Setting-Difficulty-and-Opposition.md)**), more stunts, and whatever else it takes to make them a danger.
 
 ### Minor NPCs
 
@@ -33,4 +33,4 @@ Give them zero to three stress boxes; the more they have, the more of a threat t
 
 ### Monsters, Big Bads, and Other Threats
 
-Like minor NPCs, monsters and other threats (like a storm, a spreading fire, or a squad of armored minions) are written up as characters, but are usually simpler than a PC. You only need to define what is absolutely necessary. Unlike minor NPCs, these threats can be defined really in any way. Break the rules. Give them whatever combination of aspects, skills, stunts, stress, and consequences it will take to make them dangerous, and think about what sort of difficulties they will present to the PCs when determining their ratings.
+Like minor NPCs, monsters and other threats (like a storm, a spreading fire, or a squad of armored minions) are written up as characters, but are usually simpler than a PC. You only need to define what is absolutely necessary. Unlike minor NPCs, these threats can be defined really in any way. **[Break the rules](../Optional-Rules/Ways-to-Break-the-Rules-for-Big-Bads.md)**. Give them whatever combination of aspects, skills, stunts, stress, and consequences it will take to make them dangerous, and think about what sort of difficulties they will present to the PCs when determining their ratings.

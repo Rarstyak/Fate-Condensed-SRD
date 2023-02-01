@@ -11,7 +11,7 @@ summary: ""
 ---
 ### Turn Order
 
-Often, you won’t need to know who is acting precisely when, but in contests and conflicts turn order can become important. These scenes take place over a series of **exchanges**. In an exchange, each involved character can take one overcome, create an advantage, or attack action, and can move once. (Contests work slightly differently; see **page XX**.) Because defending is a reaction to someone else’s action, characters can defend as many times as they need to during other characters’ turns, so long as they can justify their ability to interfere based on what’s already been established in the story.
+Often, you won’t need to know who is acting precisely when, but in contests and conflicts turn order can become important. These scenes take place over a series of **exchanges**. In an exchange, each involved character can take one overcome, create an advantage, or attack action, and can move once. (**[Contests](../Contests/Contests.md)** work slightly differently.) Because defending is a reaction to someone else’s action, characters can defend as many times as they need to during other characters’ turns, so long as they can justify their ability to interfere based on what’s already been established in the story.
 
 At the start of a scene, the GM and players decide who goes first based on the situation, then the active player picks who goes next. The GM’s characters are selected in the turn order just like the PCs, with the GM deciding who goes next after the NPCs have acted. After everyone has taken a turn, the last player picks who goes next at the start of the next exchange.
 

@@ -18,7 +18,7 @@ Just like failure, ties should move the story forward, never stymie the action. 
 
 #### Success at a minor cost
 
-The first is **success at a minor cost**—a few points of stress, story details about difficulty or complication but aren’t hindrances themselves, and a boost (**page XX**) to the enemy are all minor costs.
+The first is **success at a minor cost**—a few points of stress, story details about difficulty or complication but aren’t hindrances themselves, and a **[boost](../../Aspects-and-Fate-Points/What-Kinds-of-Aspects-Are-There/Boosts.md)** to the enemy are all minor costs.
 
 Ethan’s first few attempts all fail. By the time he actually gets the door open, dawn has broken, and escape under cover of darkness is impossible. He got what he needed, but his situation is worse now.
 

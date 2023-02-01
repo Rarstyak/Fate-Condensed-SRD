@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optional-Rules/Ways-to-Break-the-Rules-for-Big-Bads.md",
+                "file": "What-Version-Is-This/What-Version-Is-This.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optional-Rules/Ways-to-Break-the-Rules-for-Big-Bads.md",
+                "file": "What-Version-Is-This/What-Version-Is-This.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optional-Rules/Ways-to-Break-the-Rules-for-Big-Bads.md",
+                "file": "What-Version-Is-This/What-Version-Is-This.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optional-Rules/Ways-to-Break-the-Rules-for-Big-Bads.md"
+                "file": "What-Version-Is-This/What-Version-Is-This.md"
               }
             }
           },
@@ -166,15 +166,15 @@
   },
   "active": "b4d5e92f47841dd8",
   "lastOpenFiles": [
-    "Optional-Rules/Ways-to-Handle-Multiple-Targets.md",
-    "Optional-Rules/Weapon-and-Armor-Ratings.md",
-    "What-Version-Is-This/What-Version-Is-This.md",
-    "z_template/001.fatecondensed.md",
-    "Taking-Action-Rolling-the-Dice/Taking-Action-Rolling-the-Dice.md",
-    "RAW.md",
-    "Taking-Action-Rolling-the-Dice/Actions/Overcome.md",
-    "Taking-Action-Rolling-the-Dice/Outcomes/Outcomes.md",
-    "Taking-Action-Rolling-the-Dice/Modifying-the-Dice/Using-Stunts.md",
-    "Taking-Action-Rolling-the-Dice/Modifying-the-Dice/Invoking-Aspects.md"
+    "Optional-Rules/Optional-Rules.md",
+    "Optional-Rules/Ways-to-Break-the-Rules-for-Big-Bads.md",
+    "Optional-Rules/Time-Shifts.md",
+    "Optional-Rules/Scale.md",
+    "Optional-Rules/Obstacles.md",
+    "Optional-Rules/Full-Defense.md",
+    "Optional-Rules/Faster-Contests.md",
+    "Optional-Rules/Changing-the-Skill-List.md",
+    "Being-the-Game-Master/Safety-Tools.md",
+    "Being-the-Game-Master/Your-Fate-Points.md"
   ]
 }

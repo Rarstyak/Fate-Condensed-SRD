@@ -20,8 +20,8 @@ Keep in mind whether or not harming your target is even possible. Not every atta
 Your outcomes when attacking are:
 
 - **[If you fail,](../Outcomes/Failure.md)** you fail to connect—the attack is parried, dodged, or maybe just absorbed by armor.
-- **[If you tie,](../Outcomes/Tie.md)** maybe you barely connect, maybe you cause the defender to flinch. Either way, you get a boost (**page XX**).
-- **[If you succeed,](../Outcomes/Success.md)** you deal a hit equal to the difference between your attack’s total and the defense’s effort. The defender must absorb this hit with stress or consequences, or else be taken out (**page XX**).
+- **[If you tie,](../Outcomes/Tie.md)** maybe you barely connect, maybe you cause the defender to flinch. Either way, you get a **[boost](../../Aspects-and-Fate-Points/What-Kinds-of-Aspects-Are-There/Boosts.md)**.
+- **[If you succeed,](../Outcomes/Success.md)** you deal a hit equal to the difference between your attack’s total and the defense’s effort. The defender must absorb this hit with stress or consequences, or else be **[taken out](../../Challenges-Conflicts-and-Contests/Conflicts/Taking-Harm/Getting-Taken-Out.md)**.
 - **[If you succeed with style,](../Outcomes/Success-with-Style.md)** you deal a hit just like a success, but you may reduce the shifts of the hit by one to get a boost.
 
 Ruth has stumbled across a corpse raised by arcane powers to fulfill some dark purpose. She decides to punch it. She has Great (+4) Fight but rolls `[-][-][0][0]`, giving a Fair (+2) effort.

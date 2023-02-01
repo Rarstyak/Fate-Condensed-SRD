@@ -19,7 +19,7 @@ Your character begins with three free stunt slots. You don’t have to define th
 
 You write your own stunts when building a character. Broadly, there are two types of stunts.
 
-**Bonus-granting stunts:** The first type of stunt **gives you a +2 bonus** when you use a named skill within certain parameters, usually limited to a specific type of action (**page XX**) and type of narrative circumstance.
+**Bonus-granting stunts:** The first type of stunt **gives you a +2 bonus** when you use a named skill within certain parameters, usually limited to a specific type of **[action](../../../Taking-Action-Rolling-the-Dice/Actions/Actions.md)** and type of narrative circumstance.
 
 Write this type of stunt as follows:
 
@@ -33,7 +33,7 @@ Because I **[describe how you are amazing or have a cool bit of gear]**, I get 
 - **Swapping which skills are used in a given situation.** For instance, a researcher might use Academics to perform a ritual, while anyone else would use Lore.
 - **Using an action with a skill that isn’t normally used with it.** For instance, allowing a character to use Stealth to backstab an opponent from the shadows (which would typically be a use of Fight).
 - **Giving a character a different kind of bonus to skills that’s roughly equivalent to a +2.** For instance, when a skilled orator creates an advantage with Rapport, it gets an extra free invoke.
-- **Allowing a character to declare a minor fact is always true.** For instance, a survivalist always has survival items like matches on their person, even under unlikely circumstances. This type of stunt establishes that you do not need to invoke for story details (**page XX**) for the given fact.
+- **Allowing a character to declare a minor fact is always true.** For instance, a survivalist always has survival items like matches on their person, even under unlikely circumstances. This type of stunt establishes that you do not need to **[invoke for story details](../../../Aspects-and-Fate-Points/What-Can-I-Do-with-Aspects/Invokes/Invoking-to-Declare-Story-Details.md)** for the given fact.
 - **Allowing a character to make a specific rules exception.** For instance, a character might have two more stress boxes or another mild consequence slot.
 
 Write this type of stunt as follows:

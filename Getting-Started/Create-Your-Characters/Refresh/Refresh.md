@@ -11,7 +11,7 @@ summary: "a measure of your hero’s narrative agency"
 ---
 ### Refresh
 
-Your **refresh** is the minimum number of **[fate points](../../../Aspects-and-Fate-Points/Aspects-and-Fate-Points.md)** your character begins with at the start of each session. Your character begins with a refresh of 3.
+Your **refresh** is the minimum number of **[fate points](../../../Aspects-and-Fate-Points/What-Can-I-Do-with-Aspects/Earning-Fate-Points/Earning-Fate-Points.md)** your character begins with at the start of each session. Your character begins with a refresh of 3.
 
 Each session, you start with fate points at least equal to your refresh. Be sure to keep track of the fate points you have left at the end of each session of play—if you have more fate points than your refresh, you’ll start the next session with the fate points you ended this session with.
 

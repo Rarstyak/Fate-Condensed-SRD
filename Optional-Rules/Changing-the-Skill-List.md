@@ -24,7 +24,7 @@ As mentioned in **[Alternative Skill Lists,](../Getting-Started/Create-Your-Char
 
 If you want a longer list, try starting with the default list, adding, combining, and removing skills from it as needed until you land on what you’re after. You could instead blend together two or more lists from the above in some form.
 
-**Advancement:** The smaller the number of skills in your list vs. the default, the less frequent you’ll want skill point awards from advancement. Perhaps allow them only during “power ups” (**page XX**), or restrict them another way.
+**Advancement:** The smaller the number of skills in your list vs. the default, the less frequent you’ll want skill point awards from advancement. Perhaps allow them only during “**[power ups](../Advancement/Breakthroughs.md)**”, or restrict them another way.
 
 **Alternatives to the pyramid:**
 

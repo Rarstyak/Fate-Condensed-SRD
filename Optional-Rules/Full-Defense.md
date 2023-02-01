@@ -6,4 +6,4 @@ When declaring full defense, you must be clear about the **focus** of your eff
 
 **While on full defense you get a +2 to all defend rolls relevant to your declared focus**.
 
-If nothing comes of it and you haven’t rolled to defend at all by the time your next turn comes around, you gain a boost (**page XX**) as you’ve gotten the opportunity to prepare for your next action. This offsets “losing a turn” because you focused your efforts on defending against something that didn’t happen at all.
+If nothing comes of it and you haven’t rolled to defend at all by the time your next turn comes around, you gain a **[boost](../Aspects-and-Fate-Points/What-Kinds-of-Aspects-Are-There/Boosts.md)** as you’ve gotten the opportunity to prepare for your next action. This offsets “losing a turn” because you focused your efforts on defending against something that didn’t happen at all.

@@ -31,7 +31,7 @@ Whenever you take action, follow these steps:
 2. Roll four dice.
 3. Add up the symbols on the dice: a `[+]` is +1, `[-]` is -1, and `[0]` is 0. This will give you a dice result of -4 to 4.
 4. Add the dice result to your skill rating.
-5. Modify the dice by invoking aspects (**page XX**) and using stunts (**page XX**).
+5. Modify the dice by **[invoking](Modifying-the-Dice/Invoking-Aspects.md)** **[aspects](../Aspects-and-Fate-Points/What-Can-I-Do-with-Aspects/Invokes/Invokes.md)** and **[using stunts](Modifying-the-Dice/Using-Stunts.md)**. 
 6. Declare your total result, called your **effort**.
 
 ![Difficulty-and-Opposition](Difficulty-and-Opposition/Difficulty-and-Opposition.md)

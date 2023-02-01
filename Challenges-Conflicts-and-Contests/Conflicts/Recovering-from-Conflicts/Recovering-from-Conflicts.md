@@ -21,4 +21,4 @@ Success here is only the first hurdle—it takes time to clear the consequence.
 
 - **Mild** consequences take one full scene after treatment to clear.
 - **Moderate** consequences last longer, taking a full session after treatment to clear.
-- **Severe** consequences only clear when you reach a breakthrough (**page XX**) after treatment.
+- **Severe** consequences only clear when you reach a **[breakthrough](../../../Advancement/Breakthroughs.md)** after treatment.

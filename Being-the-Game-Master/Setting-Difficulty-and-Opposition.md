@@ -11,7 +11,7 @@ summary: ""
 ---
 ## Setting Difficulty and Opposition
 
-Sometimes, a PC’s action will face **opposition** via a defend roll from another character in the scene. In this case, the opposing character rolls dice and adds their relevant skill rating, just like the PC. If the opposing character has relevant aspects, they can be invoked; the GM can invoke NPCs’ aspects using the fate point in their pool (**page XX**).
+Sometimes, a PC’s action will face **opposition** via a defend roll from another character in the scene. In this case, the opposing character rolls dice and adds their relevant skill rating, just like the PC. If the opposing character has relevant aspects, they can be invoked; the GM can invoke NPCs’ aspects using the fate point in **[their pool](Your-Fate-Points.md)**.
 
 But if there’s no opposition, you have to decide on the **difficulty** of the action:
 
@@ -19,13 +19,13 @@ But if there’s no opposition, you have to decide on the **difficulty** of th
 - **Moderate difficulties**, near the PC’s relevant skill rating, are best when you want to provide tension but not overwhelm them.
 - **High difficulties**, much higher than the PC’s relevant skill rating, are best when you want to emphasize how dire or unusual the circumstances are and make them pull out all the stops, or put them in a position where they will need to suffer the consequences of failure.
 
-Likewise, use the adjective ladder (**page XX**) of ratings to help you choose an appropriate difficulty. Is it superbly difficult? Then pick Superb (+5)! Here are a few rules of thumb to get you started.
+Likewise, use the **[adjective ladder](../Getting-Started/Create-Your-Characters/Skills/The-Adjective-Ladder/The-Adjective-Ladder.md)** of ratings to help you choose an appropriate difficulty. Is it superbly difficult? Then pick Superb (+5)! Here are a few rules of thumb to get you started.
 
 If the task isn’t very tough at all, make it Mediocre (+0)—or just tell the player they succeed without a roll, as long as there’s no serious time pressure or the character has an aspect that suggests they’d be good at it.
 
 If you can think of at least one reason why the task is tough, pick Fair (+2); for every extra factor working against them, add another +2 to the difficulty.
 
-When thinking about those factors, consult what aspects are in play. When something is important enough to be made an aspect, it should get a little attention here. Since aspects are true (**page XX**), they might have influence over how easy or difficult something should be. That doesn’t mean that aspects are the only factors to consider, of course! Darkness is darkness regardless of whether or not you decided to make it an aspect on the scene.
+When thinking about those factors, consult what aspects are in play. When something is important enough to be made an aspect, it should get a little attention here. Since **[aspects are true](../Aspects-and-Fate-Points/Aspects-Are-Always-True/Aspects-Are-Always-True.md)**, they might have influence over how easy or difficult something should be. That doesn’t mean that aspects are the only factors to consider, of course! Darkness is darkness regardless of whether or not you decided to make it an aspect on the scene.
 
 If the task is impossibly difficult, go as high as you think makes sense. The PC will need to drop some fate points and get lots of help to succeed, but that’s fine.
 
