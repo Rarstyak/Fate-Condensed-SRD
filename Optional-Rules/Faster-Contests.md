@@ -4,9 +4,9 @@ alias:
 - "FATE Condensed Faster Contests"
 tags:
 - wf/s/FATE/Condensed
-up: "[[Optional-Rules]]"
-prev: "[[Extreme-Consequences]]"
-next: "[[Obstacles]]"
+up: "[[Optional-Rules/Optional-Rules]]"
+prev: "[[Optional-Rules/Extreme-Consequences]]"
+next: "[[Optional-Rules/Obstacles]]"
 summary: ""
 ---
 ## Faster Contests

@@ -5,8 +5,8 @@ alias:
 tags:
 - wf/s/FATE/Condensed
 up: "[[Fate-Condensed-SRD]]"
-prev: "[[Getting-Started]]"
-next: "[[Fate-Condensed-SRD/Aspects-and-Fate-Points/Aspects-and-Fate-Points]]"
+prev: "[[Getting-Started/Getting-Started]]"
+next: "[[Aspects-and-Fate-Points/Aspects-and-Fate-Points]]"
 summary: ""
 ---
 # Taking Action, Rolling the Dice

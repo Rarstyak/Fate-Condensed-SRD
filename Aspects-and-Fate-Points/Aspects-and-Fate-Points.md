@@ -5,8 +5,8 @@ alias:
 tags:
 - wf/s/FATE/Condensed
 up: "[[Fate-Condensed-SRD]]"
-prev: "[[Taking-Action-Rolling-the-Dice]]"
-next: "[[Challenges-Conflicts-and-Contests]]"
+prev: "[[Taking-Action-Rolling-the-Dice/Taking-Action-Rolling-the-Dice]]"
+next: "[[Challenges-Conflicts-and-Contests/Challenges-Conflicts-and-Contests]]"
 summary: ""
 ---
 # Aspects and Fate Points

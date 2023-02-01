@@ -4,9 +4,9 @@ alias:
 - "FATE Condensed Character Creation As You Play"
 tags:
 - wf/s/FATE/Condensed
-up: "[[Optional-Rules]]"
-prev: "[[Changing-the-Skill-List]]"
-next: "[[Countdowns]]"
+up: "[[Optional-Rules/Optional-Rules]]"
+prev: "[[Optional-Rules/Changing-the-Skill-List]]"
+next: "[[Optional-Rules/Countdowns]]"
 summary: ""
 ---
 ## Character Creation As You Play

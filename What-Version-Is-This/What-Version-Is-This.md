@@ -5,7 +5,7 @@ alias:
 tags:
 - wf/s/FATE/Condensed
 up: "[[Fate-Condensed-SRD]]"
-prev: "[[Optional-Rules]]"
+prev: "[[Optional-Rules/Optional-Rules]]"
 next: "[[]]"
 summary: ""
 ---

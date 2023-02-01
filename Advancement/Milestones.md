@@ -4,9 +4,9 @@ alias:
 - "FATE Condensed Milestones"
 tags:
 - wf/s/FATE/Condensed
-up: "[[Advancement]]"
+up: "[[Advancement/Advancement]]"
 prev: "[[]]"
-next: "[[Breakthroughs]]"
+next: "[[Advancement/Breakthroughs]]"
 summary: ""
 ---
 ## Milestones

@@ -4,8 +4,8 @@ alias:
 - "FATE Condensed Sessions and Arcs"
 tags:
 - wf/s/FATE/Condensed
-up: "[[Advancement]]"
-prev: "[[Breakthroughs]]"
+up: "[[Advancement/Advancement]]"
+prev: "[[Advancement/Breakthroughs]]"
 next: "[[]]"
 summary: ""
 ---

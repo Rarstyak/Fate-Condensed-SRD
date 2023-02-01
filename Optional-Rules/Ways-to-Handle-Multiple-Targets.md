@@ -4,9 +4,9 @@ alias:
 - "FATE Condensed Ways to Handle Multiple Targets"
 tags:
 - wf/s/FATE/Condensed
-up: "[[Optional-Rules]]"
-prev: "[[Ways-to-Break-the-Rules-for-Big-Bads]]"
-next: "[[Weapon-and-Armor-Ratings]]"
+up: "[[Optional-Rules/Optional-Rules]]"
+prev: "[[Optional-Rules/Ways-to-Break-the-Rules-for-Big-Bads]]"
+next: "[[Optional-Rules/Weapon-and-Armor-Ratings]]"
 summary: ""
 ---
 ## Ways to Handle Multiple Targets

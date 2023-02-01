@@ -4,9 +4,9 @@ alias:
 - "FATE Condensed Countdowns"
 tags:
 - wf/s/FATE/Condensed
-up: "[[Optional-Rules]]"
-prev: "[[Character-Creation-As-You-Play]]"
-next: "[[Extreme-Consequences]]"
+up: "[[Optional-Rules/Optional-Rules]]"
+prev: "[[Optional-Rules/Character-Creation-As-You-Play]]"
+next: "[[Optional-Rules/Extreme-Consequences]]"
 summary: ""
 ---
 ## Countdowns

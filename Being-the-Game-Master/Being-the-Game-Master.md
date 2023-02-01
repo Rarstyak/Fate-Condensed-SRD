@@ -5,8 +5,8 @@ alias:
 tags:
 - wf/s/FATE/Condensed
 up: "[[Fate-Condensed-SRD]]"
-prev: "[[Advancement]]"
-next: "[[Optional-Rules]]"
+prev: "[[Advancement/Advancement]]"
+next: "[[Optional-Rules/Optional-Rules]]"
 summary: ""
 ---
 # Being the Game Master

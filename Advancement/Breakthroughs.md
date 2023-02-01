@@ -4,9 +4,9 @@ alias:
 - "FATE Condensed Breakthroughs"
 tags:
 - wf/s/FATE/Condensed
-up: "[[Advancement]]"
-prev: "[[Milestones]]"
-next: "[[Sessions-and-Arcs]]"
+up: "[[Advancement/Advancement]]"
+prev: "[[Advancement/Milestones]]"
+next: "[[Advancement/Sessions-and-Arcs]]"
 summary: ""
 ---
 ## Breakthroughs

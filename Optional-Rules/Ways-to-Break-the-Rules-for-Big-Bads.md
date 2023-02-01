@@ -4,9 +4,9 @@ alias:
 - "FATE Condensed Ways to Break the Rules for Big Bads"
 tags:
 - wf/s/FATE/Condensed
-up: "[[Optional-Rules]]"
-prev: "[[Time-Shifts]]"
-next: "[[Ways-to-Handle-Multiple-Targets]]"
+up: "[[Optional-Rules/Optional-Rules]]"
+prev: "[[Optional-Rules/Time-Shifts]]"
+next: "[[Optional-Rules/Ways-to-Handle-Multiple-Targets]]"
 summary: ""
 ---
 ## Ways to Break the Rules for Big Bads

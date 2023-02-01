@@ -4,9 +4,9 @@ alias:
 - "FATE Condensed Obstacles"
 tags:
 - wf/s/FATE/Condensed
-up: "[[Optional-Rules]]"
-prev: "[[Faster-Contests]]"
-next: "[[Scale]]"
+up: "[[Optional-Rules/Optional-Rules]]"
+prev: "[[Optional-Rules/Faster-Contests]]"
+next: "[[Optional-Rules/Scale]]"
 summary: ""
 ---
 ## Obstacles

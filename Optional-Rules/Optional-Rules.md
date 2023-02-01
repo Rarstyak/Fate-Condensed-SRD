@@ -5,8 +5,8 @@ alias:
 tags:
 - wf/s/FATE/Condensed
 up: "[[Fate-Condensed-SRD]]"
-prev: "[[Being-the-Game-Master]]"
-next: "[[What-Version-Is-This]]"
+prev: "[[Being-the-Game-Master/Being-the-Game-Master]]"
+next: "[[What-Version-Is-This/What-Version-Is-This]]"
 summary: ""
 ---
 # Optional Rules

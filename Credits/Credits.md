@@ -4,9 +4,9 @@ alias:
 - "FATE Condensed Credits"
 tags:
 - wf/s/FATE/Condensed
-up: "[[Fate-Condensed-SRD|FATE Condensed SRD]]"
-prev: "[[Fate-Condensed|FATE Condensed License]]"
-next: "[Introduction](Fate-Condensed-SRD/Introduction/Introduction)"
+up: "[[Fate-Condensed-SRD]]"
+prev: "[[Fate-Condensed/Fate-Condensed]]"
+next: "[[Introduction/Introduction]]"
 summary: ""
 ---
 # Credits

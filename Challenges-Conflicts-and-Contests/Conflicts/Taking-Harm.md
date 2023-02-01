@@ -4,9 +4,9 @@ alias:
 - "FATE Condensed Taking Harm"
 tags:
 - wf/s/FATE/Condensed
-up: "[[Conflicts]]"
+up: "[[Challenges-Conflicts-and-Contests/Conflicts/Conflicts]]"
 prev: "[[]]"
-next: "[[Ending-a-Conflict]]"
+next: "[[Challenges-Conflicts-and-Contests/Conflicts/Ending-a-Conflict]]"
 summary: ""
 ---
 ### Taking Harm

@@ -4,9 +4,9 @@ alias:
 - "FATE Condensed Setting Difficulty and Opposition"
 tags:
 - wf/s/FATE/Condensed
-up: "[[Being-the-Game-Master]]"
+up: "[[Being-the-Game-Master/Being-the-Game-Master]]"
 prev: "[[]]"
-next: "[[NPCs]]"
+next: "[[Being-the-Game-Master/NPCs]]"
 summary: ""
 ---
 ## Setting Difficulty and Opposition

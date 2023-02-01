@@ -4,9 +4,9 @@ alias:
 - "FATE Condensed Time Shifts"
 tags:
 - wf/s/FATE/Condensed
-up: "[[Optional-Rules]]"
-prev: "[[Scale]]"
-next: "[[Ways-to-Break-the-Rules-for-Big-Bads]]"
+up: "[[Optional-Rules/Optional-Rules]]"
+prev: "[[Optional-Rules/Scale]]"
+next: "[[Optional-Rules/Ways-to-Break-the-Rules-for-Big-Bads]]"
 summary: ""
 ---
 ## Time Shifts

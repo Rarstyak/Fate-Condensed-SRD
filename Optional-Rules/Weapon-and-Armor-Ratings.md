@@ -4,8 +4,8 @@ alias:
 - "FATE Condensed Weapon and Armor Ratings"
 tags:
 - wf/s/FATE/Condensed
-up: "[[Optional-Rules]]"
-prev: "[[Ways-to-Handle-Multiple-Targets]]"
+up: "[[Optional-Rules/Optional-Rules]]"
+prev: "[[Optional-Rules/Ways-to-Handle-Multiple-Targets]]"
 next: "[[]]"
 summary: ""
 ---

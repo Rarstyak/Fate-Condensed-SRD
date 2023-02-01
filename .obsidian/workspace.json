@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fate-Condensed-SRD.md",
+                "file": "What-Version-Is-This/What-Version-Is-This.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,13 +31,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Taking-Action-Rolling-the-Dice/Taking-Action-Rolling-the-Dice.md",
+                "file": "Fate-Condensed-SRD.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6b64bd53c11dcc5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RAW.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fate-Condensed-SRD.md",
+                "file": "What-Version-Is-This/What-Version-Is-This.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fate-Condensed-SRD.md",
+                "file": "What-Version-Is-This/What-Version-Is-This.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,16 +156,32 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fate-Condensed-SRD.md"
+                "file": "What-Version-Is-This/What-Version-Is-This.md"
               }
             }
+          },
+          {
+            "id": "2d6467a0152c7905",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "c9f0477733d65c54",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,20 +191,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "active": "555a75c28a649a6c",
   "lastOpenFiles": [
-    "What-Version-Is-This/What-Version-Is-This.md",
-    "z_template/001.fatecondensed.md",
-    "Aspects-and-Fate-Points/What-Can-I-Do-with-Aspects/What-Can-I-Do-with-Aspects.md",
-    "Getting-Started/Stunts/Stunts.md",
-    "Fate-Condensed-SRD.md",
+    "Optional-Rules/Optional-Rules.md",
+    "Being-the-Game-Master/Being-the-Game-Master.md",
+    "Advancement/Advancement.md",
+    "Challenges-Conflicts-and-Contests/Challenges-Conflicts-and-Contests.md",
+    "Aspects-and-Fate-Points/Aspects-and-Fate-Points.md",
     "Taking-Action-Rolling-the-Dice/Taking-Action-Rolling-the-Dice.md",
-    "Challenges-Conflicts-and-Contests/Conflicts/Conflicts.md",
-    "README.md",
-    "Challenges-Conflicts-and-Contests/Conflicts/Ending-a-Conflict.md",
-    "Challenges-Conflicts-and-Contests/Conflicts/Recovering-from-Conflicts.md"
+    "Getting-Started/Getting-Started.md",
+    "Introduction/Introduction.md",
+    "Credits/Credits.md",
+    "Fate-Condensed/Fate-Condensed.md"
   ]
 }

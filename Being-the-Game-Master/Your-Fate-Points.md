@@ -4,9 +4,9 @@ alias:
 - "FATE Condensed Your Fate Points"
 tags:
 - wf/s/FATE/Condensed
-up: "[[Being-the-Game-Master]]"
-prev: "[[NPCs]]"
-next: "[[Safety-Tools]]"
+up: "[[Being-the-Game-Master/Being-the-Game-Master]]"
+prev: "[[Being-the-Game-Master/NPCs]]"
+next: "[[Being-the-Game-Master/Safety-Tools]]"
 summary: ""
 ---
 ## Your Fate Points

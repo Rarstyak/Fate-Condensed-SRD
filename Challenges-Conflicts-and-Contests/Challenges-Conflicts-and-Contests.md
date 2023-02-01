@@ -5,8 +5,8 @@ alias:
 tags:
 - wf/s/FATE/Condensed
 up: "[[Fate-Condensed-SRD]]"
-prev: "[[Aspects-and-Fate-Points]]"
-next: "[[Advancement]]"
+prev: "[[Aspects-and-Fate-Points/Aspects-and-Fate-Points]]"
+next: "[[Advancement/Advancement]]"
 ---
 # Challenges, Conflicts, and Contests
 

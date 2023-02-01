@@ -4,9 +4,9 @@ alias:
 - "FATE Condensed Extreme Consequences"
 tags:
 - wf/s/FATE/Condensed
-up: "[[Optional-Rules]]"
-prev: "[[Countdowns]]"
-next: "[[Faster-Constest]]"
+up: "[[Optional-Rules/Optional-Rules]]"
+prev: "[[Optional-Rules/Countdowns]]"
+next: "[[Optional-Rules/Faster-Contests]]"
 summary: ""
 ---
 ## Extreme Consequences

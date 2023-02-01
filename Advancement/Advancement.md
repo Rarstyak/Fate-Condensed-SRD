@@ -5,8 +5,8 @@ alias:
 tags:
 - wf/s/FATE/Condensed
 up: "[[Fate-Condensed-SRD]]"
-prev: "[[Challenges-Conflicts-and-Contests]]"
-next: "[[Being-the-GM]]"
+prev: "[[Challenges-Conflicts-and-Contests/Challenges-Conflicts-and-Contests]]"
+next: "[[Being-the-Game-Master/Being-the-Game-Master]]"
 summary: ""
 ---
 # Advancement

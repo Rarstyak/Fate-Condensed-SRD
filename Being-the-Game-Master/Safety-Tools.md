@@ -4,8 +4,8 @@ alias:
 - "FATE Condensed Safety Tools"
 tags:
 - wf/s/FATE/Condensed
-up: "[[Being-the-Game-Master]]"
-prev: "[[Your-Fate-Points]]"
+up: "[[Being-the-Game-Master/Being-the-Game-Master]]"
+prev: "[[Being-the-Game-Master/Your-Fate-Points]]"
 next: "[[]]"
 summary: ""
 ---

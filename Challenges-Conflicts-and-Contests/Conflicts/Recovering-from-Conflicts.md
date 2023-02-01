@@ -4,8 +4,8 @@ alias:
 - "FATE Condensed Recovering from Conflicts"
 tags:
 - wf/s/FATE/Condensed
-up: "[[Conflicts]]"
-prev: "[[Ending-a-Conflict]]"
+up: "[[Challenges-Conflicts-and-Contests/Conflicts/Conflicts]]"
+prev: "[[Challenges-Conflicts-and-Contests/Conflicts/Ending-a-Conflict]]"
 next: "[[]]"
 summary: ""
 ---

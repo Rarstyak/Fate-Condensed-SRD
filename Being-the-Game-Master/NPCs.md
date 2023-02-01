@@ -4,9 +4,9 @@ alias:
 - "FATE Condensed NPCs"
 tags:
 - wf/s/FATE/Condensed
-up: "[[Being-the-Game-Master]]"
-prev: "[[Setting-Difficulty-and-Opposition]]"
-next: "[[Your-Fate-Points]]"
+up: "[[Being-the-Game-Master/Being-the-Game-Master]]"
+prev: "[[Being-the-Game-Master/Setting-Difficulty-and-Opposition]]"
+next: "[[Being-the-Game-Master/Your-Fate-Points]]"
 summary: ""
 ---
 ## NPCs

@@ -4,9 +4,9 @@ alias:
 - "Fate Condensed System"
 tags:
 - wf/s/FATE/Condensed
-up: "[[Fate-Condensed-SRD|FATE Condensed SRD]]"
+up: "[[Fate-Condensed-SRD]]"
 prev: "[[]]"
-next: "[Credits](Fate-Condensed-SRD/Getting-Started/Credits/Credits)"
+next: "[[Credits/Credits]]"
 summary: ""
 ---
 # Fate Condensed

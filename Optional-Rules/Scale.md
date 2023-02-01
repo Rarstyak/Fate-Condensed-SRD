@@ -4,9 +4,9 @@ alias:
 - "FATE Condensed Scale"
 tags:
 - wf/s/FATE/Condensed
-up: "[[Optional-Rules]]"
-prev: "[[Obstacles]]"
-next: "[[Time-Shifts]]"
+up: "[[Optional-Rules/Optional-Rules]]"
+prev: "[[Optional-Rules/Obstacles]]"
+next: "[[Optional-Rules/Time-Shifts]]"
 summary: ""
 ---
 ## Scale

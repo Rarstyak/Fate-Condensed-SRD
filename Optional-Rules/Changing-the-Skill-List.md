@@ -4,9 +4,9 @@ alias:
 - "FATE Condensed Changing the Skill List"
 tags:
 - wf/s/FATE/Condensed
-up: "[[Optional-Rules]]"
-prev: "[[Conditions]]"
-next: "[[Character-Creation-As-You-Play]]"
+up: "[[Optional-Rules/Optional-Rules]]"
+prev: "[[Optional-Rules/Conditions]]"
+next: "[[Optional-Rules/Character-Creation-As-You-Play]]"
 summary: ""
 ---
 ## Changing the Skill List

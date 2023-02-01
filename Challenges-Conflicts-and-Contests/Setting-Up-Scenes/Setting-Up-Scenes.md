@@ -4,9 +4,9 @@ alias:
 - "FATE Condensed Setting Up Scenes"
 tags:
 - wf/s/FATE/Condensed
-up: "[[Challenges-Conflicts-and-Contests]]"
+up: "[[Challenges-Conflicts-and-Contests/Challenges-Conflicts-and-Contests]]"
 prev: "[[]]"
-next: "[[Teamwork]]"
+next: "[[Challenges-Conflicts-and-Contests/Teamwork/Teamwork]]"
 summary: ""
 ---
 ## Setting Up Scenes

@@ -4,9 +4,9 @@ alias:
 - "FATE Condensed Conditions"
 tags:
 - wf/s/FATE/Condensed
-up: "[[Optional-Rules]]"
+up: "[[Optional-Rules/Optional-Rules]]"
 prev: "[[]]"
-next: "[[Changing-the-Skill-List]]"
+next: "[[Optional-Rules/Changing-the-Skill-List]]"
 summary: ""
 ---
 ## Conditions
