@@ -4,9 +4,9 @@ alias:
 - "FATE Condensed Modifying the Dice"
 tags:
 - wf/s/FATE/Condensed/Aspect
-up: "[[Taking-Action-Rolling-the-Dice]]"
-prev: "[[Difficulty-and-Opposition]]"
-next: "[[Outcomes]]"
+up: "[[Taking-Action-Rolling-the-Dice/Taking-Action-Rolling-the-Dice]]"
+prev: "[[Taking-Action-Rolling-the-Dice/Difficulty-and-Opposition/Difficulty-and-Opposition]]"
+next: "[[Taking-Action-Rolling-the-Dice/Outcomes/Outcomes]]"
 summary: ""
 ---
 ## Modifying the Dice

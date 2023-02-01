@@ -4,9 +4,9 @@ alias:
 - "FATE Condensed Teamwork"
 tags:
 - wf/s/FATE/Condensed
-up: "[[Challenges-Conflicts-and-Contests]]"
-prev: "[[Setting-Up-Scenes]]"
-next: "[[Challenges]]"
+up: "[[Challenges-Conflicts-and-Contests/Challenges-Conflicts-and-Contests]]"
+prev: "[[Challenges-Conflicts-and-Contests/Setting-Up-Scenes/Setting-Up-Scenes]]"
+next: "[[Challenges-Conflicts-and-Contests/Challenges/Challenges]]"
 summary: ""
 ---
 ## Teamwork

@@ -4,9 +4,9 @@ alias:
 - "FATE Condensed Outcomes"
 tags:
 - wf/s/FATE/Condensed/Aspect
-up: "[[Taking-Action-Rolling-the-Dice]]"
-prev: "[[Modifying-the-Dice]]"
-next: "[[Actions]]"
+up: "[[Taking-Action-Rolling-the-Dice/Taking-Action-Rolling-the-Dice]]"
+prev: "[[Taking-Action-Rolling-the-Dice/Modifying-the-Dice/Modifying-the-Dice]]"
+next: "[[Taking-Action-Rolling-the-Dice/Actions/Actions]]"
 summary: ""
 ---
 ## Outcomes

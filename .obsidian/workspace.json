@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What-Version-Is-This/What-Version-Is-This.md",
+                "file": "Credits/Credits.md",
                 "mode": "source",
                 "source": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What-Version-Is-This/What-Version-Is-This.md",
+                "file": "Credits/Credits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What-Version-Is-This/What-Version-Is-This.md",
+                "file": "Credits/Credits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What-Version-Is-This/What-Version-Is-This.md"
+                "file": "Credits/Credits.md"
               }
             }
           },
@@ -195,17 +195,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "555a75c28a649a6c",
+  "active": "2d6467a0152c7905",
   "lastOpenFiles": [
-    "Optional-Rules/Optional-Rules.md",
-    "Being-the-Game-Master/Being-the-Game-Master.md",
-    "Advancement/Advancement.md",
-    "Challenges-Conflicts-and-Contests/Challenges-Conflicts-and-Contests.md",
-    "Aspects-and-Fate-Points/Aspects-and-Fate-Points.md",
-    "Taking-Action-Rolling-the-Dice/Taking-Action-Rolling-the-Dice.md",
-    "Getting-Started/Getting-Started.md",
-    "Introduction/Introduction.md",
+    "Fate-Condensed/Fate-Condensed.md",
     "Credits/Credits.md",
-    "Fate-Condensed/Fate-Condensed.md"
+    "Introduction/Introduction.md",
+    "Getting-Started/Getting-Started.md",
+    "Getting-Started/Define-Your-Setting/Define-Your-Setting.md",
+    "Getting-Started/Create-Your-Characters/Create-Your-Characters.md",
+    "Taking-Action-Rolling-the-Dice/Taking-Action-Rolling-the-Dice.md",
+    "Taking-Action-Rolling-the-Dice/Difficulty-and-Opposition/Difficulty-and-Opposition.md",
+    "Taking-Action-Rolling-the-Dice/Modifying-the-Dice/Modifying-the-Dice.md",
+    "Taking-Action-Rolling-the-Dice/Outcomes/Outcomes.md"
   ]
 }

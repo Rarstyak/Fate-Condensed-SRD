@@ -4,9 +4,9 @@ alias:
 - "FATE Condensed Difficulty and Opposition"
 tags:
 - wf/s/FATE/Condensed
-up: "[[Taking-Action-Rolling-the-Dice]]"
+up: "[[Taking-Action-Rolling-the-Dice/Taking-Action-Rolling-the-Dice]]"
 prev: "[[]]"
-next: "[[Modifying-the-Dice]]"
+next: "[[Taking-Action-Rolling-the-Dice/Modifying-the-Dice/Modifying-the-Dice]]"
 summary: ""
 ---
 ## Difficulty and Opposition

@@ -4,9 +4,9 @@ alias:
 - "FATE Condensed Contests"
 tags:
 - wf/s/FATE/Condensed
-up: "[[Challenges-Conflicts-and-Contests]]"
-prev: "[[Challenges]]"
-next: "[[Conflicts]]"
+up: "[[Challenges-Conflicts-and-Contests/Challenges-Conflicts-and-Contests]]"
+prev: "[[Challenges-Conflicts-and-Contests/Challenges/Challenges]]"
+next: "[[Challenges-Conflicts-and-Contests/Conflicts/Conflicts]]"
 summary: ""
 ---
 ## Contests

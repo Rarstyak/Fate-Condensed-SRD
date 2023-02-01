@@ -4,7 +4,7 @@ alias:
 - "FATE Condensed What Can I Do with Aspects"
 tags:
 - wf/s/FATE/Condensed
-up: "[[Aspects-and-Fate-Points]]"
+up: "[[Aspects-and-Fate-Points/Aspects-and-Fate-Points]]"
 prev: "[[]]"
 next: "[[Aspects-and-Fate-Points/What-Kinds-of-Aspects-Are-There]]"
 summary: ""
