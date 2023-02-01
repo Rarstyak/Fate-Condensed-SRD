@@ -4,9 +4,9 @@ alias:
 - "FATE Condensed Attack"
 tags:
 - wf/s/FATE/Condensed/Action
-up: "[[Actions]]"
-prev: "[[Create-an-Advantage]]"
-next: "[[Defend]]"
+up: "[[Taking-Action-Rolling-the-Dice/Actions/Actions]]"
+prev: "[[Taking-Action-Rolling-the-Dice/Actions/Create-an-Advantage]]"
+next: "[[Taking-Action-Rolling-the-Dice/Actions/Defend]]"
 summary: "Attack to harm the enemy."
 ---
 ### Attack

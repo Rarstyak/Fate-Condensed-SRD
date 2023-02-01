@@ -4,9 +4,9 @@ alias:
 - "FATE Condensed Overcome"
 tags:
 - wf/s/FATE/Condensed/Action
-up: "[[Actions]]"
+up: "[[Taking-Action-Rolling-the-Dice/Actions/Actions]]"
 prev: "[[]]"
-next: "[[Create-an-Advantage]]"
+next: "[[Taking-Action-Rolling-the-Dice/Actions/Create-an-Advantage]]"
 summary: "Overcome to surmount obstacles with your skills."
 ---
 ### Overcome

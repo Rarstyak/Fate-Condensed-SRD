@@ -18,7 +18,7 @@ Your PC is made up of several elements:
 - **[Aspects](../Aspects/Aspects.md):** phrases describing who your hero is
 - **[Skills](../Skills/Skills.md):** your hero’s areas of relative expertise
 - **[Stunts](../Stunts/Stunts.md):** remarkable things your hero does
-- **Stress:** your hero’s ability to keep calm and carry on
-- **Consequences:** the wounds, physical and mental, your hero can endure
+- **[Stress](../Stress-and-Consequences/Stress-and-Consequences.md):** your hero’s ability to keep calm and carry on
+- **[Consequences](../Stress-and-Consequences/Stress-and-Consequences.md):** the wounds, physical and mental, your hero can endure
 - **[Refresh](../Refresh/Refresh.md):** a measure of your hero’s narrative agency
 - **[Finishing Touches](../Finishing-Touches/Finishing-Touches.md):** your hero’s personal details

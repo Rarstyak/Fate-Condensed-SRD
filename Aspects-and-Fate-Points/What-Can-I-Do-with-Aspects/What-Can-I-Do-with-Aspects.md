@@ -11,8 +11,8 @@ summary: ""
 ---
 ## What Can I Do with Aspects?
 
-![Earning Fate Points](Aspects-and-Fate-Points/What-Can-I-Do-with-Aspects/Earning%20Fate%20Points.md)
+![Earning-Fate-Points](Earning-Fate-Points/Earning-Fate-Points.md)
 
-![Invokes](Aspects-and-Fate-Points/What-Can-I-Do-with-Aspects/Invokes.md)
+![Invokes](Invokes/Invokes.md)
 
-![Compels](Aspects-and-Fate-Points/What-Can-I-Do-with-Aspects/Compels.md)
+![Compels](Compels/Compels.md)

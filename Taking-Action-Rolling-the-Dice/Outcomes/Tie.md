@@ -5,9 +5,9 @@ alias:
 - "FATE Condensed Tie"
 tags:
 - wf/s/FATE/Condensed/Outcome
-up: "[[Outcomes]]"
-prev: "[[Failure]]"
-next: "[[Success]]"
+up: "[[Taking-Action-Rolling-the-Dice/Outcomes/Outcomes]]"
+prev: "[[Taking-Action-Rolling-the-Dice/Outcomes/Failure]]"
+next: "[[Taking-Action-Rolling-the-Dice/Outcomes/Success]]"
 summary: ""
 ---
 ### Tie

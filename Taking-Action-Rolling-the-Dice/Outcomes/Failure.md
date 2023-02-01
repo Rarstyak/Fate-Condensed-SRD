@@ -5,9 +5,9 @@ alias:
 - "FATE Condensed Failure"
 tags:
 - wf/s/FATE/Condensed/Outcome
-up: "[[Outcomes]]"
+up: "[[Taking-Action-Rolling-the-Dice/Outcomes/Outcomes]]"
 prev: "[[]]"
-next: "[[Tie]]"
+next: "[[Taking-Action-Rolling-the-Dice/Outcomes/Tie]]"
 summary: "If your effort is less than the target difficulty or opposition, you fail."
 ---
 ### Failure

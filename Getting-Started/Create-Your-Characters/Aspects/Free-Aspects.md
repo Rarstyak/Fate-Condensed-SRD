@@ -4,8 +4,8 @@ alias:
 - "FATE Condensed Free Aspects"
 tags:
 - wf/s/FATE/Condensed/Aspect
-up: "[[Aspects]]"
-prev: "[[]]"
+up: "[[Getting-Started/Create-Your-Characters/Aspects/Aspects]]"
+prev: "[[Getting-Started/Create-Your-Characters/Aspects/Relationship]]"
 next: "[[]]"
 summary: ""
 ---

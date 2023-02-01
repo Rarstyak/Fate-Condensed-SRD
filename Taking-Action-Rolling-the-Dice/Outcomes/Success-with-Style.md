@@ -5,8 +5,8 @@ alias:
 - "FATE Condensed Success with Style"
 tags:
 - wf/s/FATE/Condensed/Outcome
-up: "[[Outcomes]]"
-prev: "[[Success]]"
+up: "[[Taking-Action-Rolling-the-Dice/Outcomes/Outcomes]]"
+prev: "[[Taking-Action-Rolling-the-Dice/Outcomes/Success]]"
 next: "[[]]"
 summary: "If your effort is three or more than the target, you succeed with style."
 ---

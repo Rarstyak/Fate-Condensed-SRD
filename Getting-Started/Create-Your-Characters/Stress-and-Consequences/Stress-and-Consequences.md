@@ -11,7 +11,7 @@ summary: ""
 ---
 ### Stress and Consequences
 
-**Stress** and **consequences** are how your character withstands the mental and physical toll of their adventures. Characters have at least three one-point boxes for physical stress and at least three one-point boxes for mental stress. They also get one slot each for mild, moderate, and severe consequences.
+**[Stress](../../../Challenges-Conflicts-and-Contests/Conflicts/Taking-Harm/Stress.md)** and **[Consequences](../../../Challenges-Conflicts-and-Contests/Conflicts/Taking-Harm/Consequences.md)** are how your character withstands the mental and physical toll of their adventures. Characters have at least three one-point boxes for physical stress and at least three one-point boxes for mental stress. They also get one slot each for mild, moderate, and severe consequences.
 
 Your rating in Physique affects how many total physical stress boxes you have. Will does the same for your mental stress. Refer to the following table:
 
@@ -35,7 +35,7 @@ Superb (+5) and higher
 
 **`[1][1][1] [1][1][1]`** and a second mild consequence slot specifically for physical or mental hits
 
-You’ll learn how stress and consequences work during play in _“Taking Harm”_ (**page XX**).
+You’ll learn how stress and consequences work during play in **[Taking-Harm](../../../Challenges-Conflicts-and-Contests/Conflicts/Taking-Harm/Taking-Harm.md)**.
 
 #### Hang on, that’s not what I remember!
 

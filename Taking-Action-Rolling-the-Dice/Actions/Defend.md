@@ -4,8 +4,8 @@ alias:
 - "FATE Condensed Defend"
 tags:
 - wf/s/FATE/Condensed/Action
-up: "[[Actions]]"
-prev: "[[Attack]]"
+up: "[[Taking-Action-Rolling-the-Dice/Actions/Actions]]"
+prev: "[[Taking-Action-Rolling-the-Dice/Actions/Attack]]]"
 next: "[[]]"
 summary: "Defend to survive an attack or interfere with a foe’s action."
 ---

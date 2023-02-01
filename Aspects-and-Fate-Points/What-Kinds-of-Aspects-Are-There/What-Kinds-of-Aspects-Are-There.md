@@ -17,6 +17,6 @@ There’s an endless variety of aspects (see **page XX** for more), but no mat
 
 ![Situation-Aspects](Situation-Aspects.md)
 
-![Consequences](Consequences.md)
+![Consequences](Aspects-and-Fate-Points/What-Kinds-of-Aspects-Are-There/Consequences.md)
 
 ![Boosts](Boosts.md)

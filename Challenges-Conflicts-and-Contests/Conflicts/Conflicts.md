@@ -19,8 +19,8 @@ Conflicts can be physical or mental. Physical conflicts can be shoot-outs, sword
 
 Timing matters when using some kinds of teamwork (**page XX**). You can invoke an aspect on your ally’s behalf to improve their roll at any time. You can help an ally _before_ their turn comes around by creating an advantage or giving a +1 bonus as your action. If they take their turn ahead of you in the exchange, you can’t create an advantage to help them, but you can use up your turn (skipping it for that exchange) to give them a +1 teamwork bonus.
 
-![Taking-Harm](Taking-Harm.md)
+![Taking-Harm](Challenges-Conflicts-and-Contests/Conflicts/Taking-Harm/Taking-Harm.md)
 
-![Ending-a-Conflict](Ending-a-Conflict.md)
+![Ending-a-Conflict](Challenges-Conflicts-and-Contests/Conflicts/Ending-a-Conflict/Ending-a-Conflict.md)
 
-![Recovering-from-Conflicts](Recovering-from-Conflicts.md)
+![Recovering-from-Conflicts](Challenges-Conflicts-and-Contests/Conflicts/Recovering-from-Conflicts/Recovering-from-Conflicts.md)

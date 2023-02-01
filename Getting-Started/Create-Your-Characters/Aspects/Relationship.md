@@ -4,9 +4,9 @@ alias:
 - "FATE Condensed Relationship"
 tags:
 - wf/s/FATE/Condensed/Aspect
-up: "[[Aspects]]"
-prev: "[[]]"
-next: "[[]]"
+up: "[[Getting-Started/Create-Your-Characters/Aspects/Aspects]]"
+prev: "[[Getting-Started/Create-Your-Characters/Aspects/Trouble]]"
+next: "[[Getting-Started/Create-Your-Characters/Aspects/Free-Aspects]]"
 summary: ""
 ---
 Your **relationship** describes a connection with another PC. They may already know one another, or have just met.

@@ -4,9 +4,9 @@ alias:
 - "FATE Condensed Create an Advantage"
 tags:
 - wf/s/FATE/Condensed/Action
-up: "[[Actions]]"
-prev: "[[Overcome]]"
-next: "[[Attack]]"
+up: "[[Taking-Action-Rolling-the-Dice/Actions/Actions]]"
+prev: "[[Taking-Action-Rolling-the-Dice/Actions/Overcome]]"
+next: "[[Taking-Action-Rolling-the-Dice/Actions/Attack]]"
 summary: "Create A situation aspect or gain a benefit from an existing aspect."
 ---
 ### Create an Advantage

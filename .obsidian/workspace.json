@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "feb76a796ed96441",
+        "id": "4d9dc59117cbb57f",
         "type": "tabs",
         "children": [
           {
-            "id": "555a75c28a649a6c",
+            "id": "3f86273409d15c42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Credits/Credits.md",
+                "file": "Getting-Started/Create-Your-Characters/Skills/Skills.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "42a19f410a835eb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_template/001.fatecondensed.md",
                 "mode": "source",
                 "source": true
               }
@@ -22,35 +34,22 @@
         ]
       },
       {
-        "id": "6ee06d0ff173db12",
+        "id": "84d00eac720c2810",
         "type": "tabs",
         "children": [
           {
-            "id": "725dc40b769d5033",
+            "id": "39276330f6dc1d81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fate-Condensed-SRD.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6b64bd53c11dcc5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RAW.md",
+                "file": "Getting-Started/Create-Your-Characters/Skills/Skills.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Credits/Credits.md",
+                "file": "Getting-Started/Create-Your-Characters/Skills/Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Credits/Credits.md",
+                "file": "Getting-Started/Create-Your-Characters/Skills/Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Credits/Credits.md"
+                "file": "Getting-Started/Create-Your-Characters/Skills/Skills.md"
               }
             }
           },
@@ -195,17 +194,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "2d6467a0152c7905",
+  "active": "3dd6ad4bcc96a3bf",
   "lastOpenFiles": [
-    "Fate-Condensed/Fate-Condensed.md",
-    "Credits/Credits.md",
-    "Introduction/Introduction.md",
-    "Getting-Started/Getting-Started.md",
-    "Getting-Started/Define-Your-Setting/Define-Your-Setting.md",
-    "Getting-Started/Create-Your-Characters/Create-Your-Characters.md",
-    "Taking-Action-Rolling-the-Dice/Taking-Action-Rolling-the-Dice.md",
-    "Taking-Action-Rolling-the-Dice/Difficulty-and-Opposition/Difficulty-and-Opposition.md",
-    "Taking-Action-Rolling-the-Dice/Modifying-the-Dice/Modifying-the-Dice.md",
-    "Taking-Action-Rolling-the-Dice/Outcomes/Outcomes.md"
+    "RAW.md",
+    "Getting-Started/Create-Your-Characters/Skills/Skill-List/Skill-List.md",
+    "Getting-Started/Create-Your-Characters/Skills/Skill-List/Athletics.md",
+    "Getting-Started/Create-Your-Characters/Skills/Skill-List/Academics.md",
+    "Getting-Started/Create-Your-Characters/Skills/Skill-List/Burglary.md",
+    "Getting-Started/Create-Your-Characters/Skills/Skill-List/Contacts.md",
+    "Getting-Started/Create-Your-Characters/Skills/Skill-List/Crafts.md",
+    "Getting-Started/Create-Your-Characters/Skills/Skill-List/Deceive.md",
+    "Getting-Started/Create-Your-Characters/Skills/Skill-List/Drive.md",
+    "Getting-Started/Create-Your-Characters/Skills/Skill-List/Empathy.md"
   ]
 }

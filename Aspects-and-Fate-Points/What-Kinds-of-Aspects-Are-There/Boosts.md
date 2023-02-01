@@ -4,8 +4,8 @@ alias:
 - "FATE Condensed Boosts"
 tags:
 - wf/s/FATE/Condensed/Aspect
-up: "[[What-Kinds-of-Aspects-Are-There]]"
-prev: "[[What-Kinds-of-Aspects-Are-There/Consequences]]"
+up: "[[Aspects-and-Fate-Points/What-Kinds-of-Aspects-Are-There/What-Kinds-of-Aspects-Are-There]]"
+prev: "[[Aspects-and-Fate-Points/What-Kinds-of-Aspects-Are-There/Consequences]]"
 next: "[[]]"
 summary: "A **boost** is a special kind of aspect, representing an extremely temporary or minor situation."
 ---

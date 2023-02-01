@@ -4,9 +4,9 @@ alias:
 - "FATE Condensed Consequences"
 tags:
 - wf/s/FATE/Condensed/Aspect
-up: "[[What-Kinds-of-Aspects-Are-There]]"
-prev: "[[What-Kinds-of-Aspects-Are-There/Situation-Aspects]]"
-next: "[[What-Kinds-of-Aspects-Are-There/Boosts]]"
+up: "[[Aspects-and-Fate-Points/What-Kinds-of-Aspects-Are-There/Consequences]]"
+prev: "[[Aspects-and-Fate-Points/What-Kinds-of-Aspects-Are-There/Situation-Aspects]]"
+next: "[[Aspects-and-Fate-Points/What-Kinds-of-Aspects-Are-There/Boosts]]"
 summary: ""
 ---
 ### Consequences
