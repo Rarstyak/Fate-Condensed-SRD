@@ -21,18 +21,10 @@ To learn more about aspects and what makes a good one, consider reading some ofÂ
 
 **To begin, youâ€™ll give your character five aspects**: a high concept, a trouble, a relationship, and two free aspects. Start with the high concept and go from there.
 
-#### High Concept
-
 ![High-Concept](High-Concept.md)
-
-#### Trouble
 
 ![Trouble](Trouble.md)
 
-#### Relationship
-
 ![Relationship](Relationship.md)
-
-#### Free Aspects
 
 ![Free-Aspects](Free-Aspects.md)

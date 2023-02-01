@@ -20,4 +20,4 @@ When building your own implementation of Fate, the first thing to think about is
 
 Fred decides he wants to do a space-faring Fate game with a shorter skill list that’s focused on action-words. He settles on this 9-item skill list: Fight, Know, Move, Notice, Pilot, Sneak, Speak, Tinker, and Will. He also likes the idea of a “diamond” shape for skill ratings rather than a pyramid, so he has players rate their starting skills as follows: 1 at Great (+4), 2 at Good (+3), 3 at Fair (+2), 2 at Average (+1), and 1 at Mediocre (+0). His PCs will have a lot of overlap and core competencies due to the fat middle of his diamond, while still enjoying some niche protections at the top of the diamond’s “point.”
 
-If you’re considering making your own skill list for your game and are looking for some ideas to kick-start your imagination, see **page XX.**
+If you’re considering making your own skill list for your game and are looking for some ideas to kick-start your imagination, see **[Changing the Skill List](../../../../Optional-Rules/Changing-the-Skill-List.md)**

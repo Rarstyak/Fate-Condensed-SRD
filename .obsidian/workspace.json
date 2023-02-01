@@ -4,46 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4d9dc59117cbb57f",
+        "id": "3e5e019a6c9a151e",
         "type": "tabs",
         "children": [
           {
-            "id": "3f86273409d15c42",
+            "id": "b4d5e92f47841dd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Getting-Started/Create-Your-Characters/Skills/Skills.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "42a19f410a835eb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z_template/001.fatecondensed.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "84d00eac720c2810",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "39276330f6dc1d81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Getting-Started/Create-Your-Characters/Skills/Skills.md",
+                "file": "Optional-Rules/Ways-to-Break-the-Rules-for-Big-Bads.md",
                 "mode": "source",
                 "source": true
               }
@@ -115,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Getting-Started/Create-Your-Characters/Skills/Skills.md",
+                "file": "Optional-Rules/Ways-to-Break-the-Rules-for-Big-Bads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Getting-Started/Create-Your-Characters/Skills/Skills.md",
+                "file": "Optional-Rules/Ways-to-Break-the-Rules-for-Big-Bads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Getting-Started/Create-Your-Characters/Skills/Skills.md"
+                "file": "Optional-Rules/Ways-to-Break-the-Rules-for-Big-Bads.md"
               }
             }
           },
@@ -194,17 +164,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "3dd6ad4bcc96a3bf",
+  "active": "b4d5e92f47841dd8",
   "lastOpenFiles": [
+    "Optional-Rules/Ways-to-Handle-Multiple-Targets.md",
+    "Optional-Rules/Weapon-and-Armor-Ratings.md",
+    "What-Version-Is-This/What-Version-Is-This.md",
+    "z_template/001.fatecondensed.md",
+    "Taking-Action-Rolling-the-Dice/Taking-Action-Rolling-the-Dice.md",
     "RAW.md",
-    "Getting-Started/Create-Your-Characters/Skills/Skill-List/Skill-List.md",
-    "Getting-Started/Create-Your-Characters/Skills/Skill-List/Athletics.md",
-    "Getting-Started/Create-Your-Characters/Skills/Skill-List/Academics.md",
-    "Getting-Started/Create-Your-Characters/Skills/Skill-List/Burglary.md",
-    "Getting-Started/Create-Your-Characters/Skills/Skill-List/Contacts.md",
-    "Getting-Started/Create-Your-Characters/Skills/Skill-List/Crafts.md",
-    "Getting-Started/Create-Your-Characters/Skills/Skill-List/Deceive.md",
-    "Getting-Started/Create-Your-Characters/Skills/Skill-List/Drive.md",
-    "Getting-Started/Create-Your-Characters/Skills/Skill-List/Empathy.md"
+    "Taking-Action-Rolling-the-Dice/Actions/Overcome.md",
+    "Taking-Action-Rolling-the-Dice/Outcomes/Outcomes.md",
+    "Taking-Action-Rolling-the-Dice/Modifying-the-Dice/Using-Stunts.md",
+    "Taking-Action-Rolling-the-Dice/Modifying-the-Dice/Invoking-Aspects.md"
   ]
 }

@@ -11,7 +11,7 @@ summary: ""
 ---
 ## Modifying the Dice
 
-You may modify your dice by invoking aspects to get +2 to your roll or reroll the dice. Some stunts also give you a bonus. You may also invoke aspects to support an ally (**page XX**) or to increase the difficulty an enemy faces.
+You may modify your dice by invoking aspects to get +2 to your roll or reroll the dice. Some stunts also give you a bonus. You may also invoke aspects to **[support an ally](../../Challenges-Conflicts-and-Contests/Teamwork/Teamwork.md)** or to increase the difficulty an enemy faces.
 
 ![Invoking-Aspects](Invoking-Aspects.md)
 

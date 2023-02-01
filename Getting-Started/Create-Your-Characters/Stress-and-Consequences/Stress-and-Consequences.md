@@ -43,6 +43,6 @@ In _Fate Condensed_, we’re using only one-point stress boxes. _Fate Core Sys
 
 There are a few other angles on this style that you’ll want to keep in mind.
 
-- As you’ll see on **page XX**, with 1-point boxes you may mark as many of them as you want when you get hit (the escalating-value style of Fate Core, meanwhile, has a “you can only mark one box per hit” proviso).
+- **[With 1-point stress boxes](../../../Challenges-Conflicts-and-Contests/Conflicts/Taking-Harm/Stress.md)** you may mark as many of them as you want when you get hit (the escalating-value style of Fate Core, meanwhile, has a “you can only mark one box per hit” proviso).
 - This style goes with the Fate Core notion of separate Physical and Mental stress tracks, instead of a single unified track as with Fate Accelerated. If you’re inclined towards a unified track, add three more boxes to make up for it, and use the _higher_ of Physique or Will to lengthen it as indicated.
 - Three points of stress absorption on one track is not a lot! If characters end up feeling a little fragile in play, you may want to add one or two boxes to the default quantity. It’s all about how fast the consequences hit. (With the older style, a **`[1][2]`** track absorbs 2 to 3 stress, **`[1][2][3]`** = 3 to 6, **`[1][2][3][4]`** = 4 to 10.)
