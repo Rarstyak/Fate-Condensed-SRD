@@ -10,7 +10,7 @@ next: "[[Getting-Started|Getting Started]]"
 ---
 # Introduction
 
-This is [[Fate-Condensed|Fate Condensed]], a version of [[Fate-Core-System|Fate Core System]] in as compact a form as we can manage. It is a complete roleplaying game; while other books might enhance your use of it, you don’t need any other book to play.
+This is _Fate Condensed_, a version of _Fate Core System_ in as compact a form as we can manage. It is a complete roleplaying game; while other books might enhance your use of it, you don’t need any other book to play.
 
 On that note, let’s get into what you _do_ need!
 

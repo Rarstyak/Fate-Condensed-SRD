@@ -1,1 +1,8 @@
-{}
+{
+  "livePreview": false,
+  "showFrontmatter": true,
+  "newLinkFormat": "relative",
+  "newFileLocation": "current",
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true
+}

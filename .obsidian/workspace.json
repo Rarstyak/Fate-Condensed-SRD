@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fate-Condensed-SRD.md",
+                "file": "Optional-Rules/Conditions.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#wf/s/FATE/Condensed",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fate-Condensed-SRD.md",
+                "file": "Optional-Rules/Conditions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fate-Condensed-SRD.md",
+                "file": "Optional-Rules/Conditions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fate-Condensed-SRD.md"
+                "file": "Optional-Rules/Conditions.md"
               }
             }
           }
@@ -143,9 +143,21 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "6e915f1900a447b4",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Optional-Rules/Character-Creation-As-You-Play.md",
+    "Taking-Action-Rolling-the-Dice/Taking-Action-Rolling-the-Dice.md",
+    "Fate-Condensed-SRD.md",
+    "README.md",
+    "Aspects-and-Fate-Points/Aspects-and-Fate-Points.md",
+    "Advancement/Breakthroughs.md",
+    "Advancement/Sessions-and-Arcs.md",
+    "Advancement/Milestones.md",
+    "Advancement/Advancement.md",
+    "Aspects-and-Fate-Points/Aspects-Are-Always-True/Aspects-Are-Always-True.md"
+  ]
 }

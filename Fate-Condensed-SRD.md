@@ -5,7 +5,7 @@ alias:
 tags:
 - wf/s/FATE/Condensed
 ---
-Publisher:: [[Evil Hat Productions]]
+Publisher:: Evil Hat Productions
 [Official SRD](https://www.faterpg.com/wp-content/uploads/2020/02/Fate-Condensed-SRD-CC-BY.html)
 # FATE Condensed
 [Fate Condensed](Fate-Condensed/Fate-Condensed.md)
