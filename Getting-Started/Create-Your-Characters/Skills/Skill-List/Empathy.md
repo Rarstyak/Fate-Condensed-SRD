@@ -1,4 +1,5 @@
 ---
+title: "Empathy"
 alias:
 - "Empathy"
 - "FATE Condensed Empathy"

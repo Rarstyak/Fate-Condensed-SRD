@@ -1,4 +1,5 @@
 ---
+title: "Milestones"
 alias:
 - "Milestones"
 - "FATE Condensed Milestones"

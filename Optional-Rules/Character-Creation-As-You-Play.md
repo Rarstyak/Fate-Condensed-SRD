@@ -1,4 +1,5 @@
 ---
+title: "Character-Creation-As-You-Play"
 alias:
 - "Character Creation As You Play"
 - "FATE Condensed Character Creation As You Play"

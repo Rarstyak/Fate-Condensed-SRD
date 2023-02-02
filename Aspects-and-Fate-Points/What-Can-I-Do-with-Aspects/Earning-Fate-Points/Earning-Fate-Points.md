@@ -1,4 +1,5 @@
 ---
+title: "Earning-Fate-Points"
 alias:
 - "Earning Fate Points"
 - "FATE Condensed Earning Fate Points"

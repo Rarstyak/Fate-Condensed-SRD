@@ -1,4 +1,5 @@
 ---
+title: "Failure"
 alias:
 - "Failure"
 - "If you fail,"

@@ -1,4 +1,5 @@
 ---
+title: "Refresh"
 alias:
 - "Refresh"
 - "FATE Condensed Refresh"

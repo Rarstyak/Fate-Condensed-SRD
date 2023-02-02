@@ -1,4 +1,5 @@
 ---
+title: "Burglary"
 alias:
 - "Burglary"
 - "FATE Condensed Burglary"

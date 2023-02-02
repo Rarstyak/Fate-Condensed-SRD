@@ -1,4 +1,5 @@
 ---
+title: "The-Adjective-Ladder"
 alias:
 - "The Adjective Ladder"
 - "FATE Condensed The Adjective Ladder"

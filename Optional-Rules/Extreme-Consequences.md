@@ -1,4 +1,5 @@
 ---
+title: "Extreme-Consequences"
 alias:
 - "Extreme Consequences"
 - "FATE Condensed Extreme Consequences"

@@ -1,4 +1,5 @@
 ---
+title: "Aspects-and-Fate-Points"
 alias:
 - "Aspects and Fate Points"
 - "FATE Condensed Aspects and Fate Points"

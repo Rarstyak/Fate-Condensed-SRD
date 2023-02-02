@@ -1,4 +1,5 @@
 ---
+title: "Recovering-from-Conflicts"
 alias:
 - "Recovering from Conflicts"
 - "FATE Condensed Recovering from Conflicts"

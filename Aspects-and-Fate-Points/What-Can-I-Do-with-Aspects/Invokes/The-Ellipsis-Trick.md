@@ -1,4 +1,5 @@
 ---
+title: "The-Ellipsis-Trick"
 alias:
 - "The Ellipsis Trick"
 - "FATE Condensed The Ellipsis Trick"

@@ -1,11 +1,12 @@
 ---
+title: "Obstacles"
 alias:
 - "Obstacles"
 - "FATE Condensed Obstacles"
 tags:
 - wf/s/FATE/Condensed
 up: "[[Optional-Rules/Optional-Rules]]"
-prev: "[[Optional-Rules/Faster-Contests]]"
+prev: "[[Optional-Rules/Full-Defense]]"
 next: "[[Optional-Rules/Scale]]"
 summary: ""
 ---

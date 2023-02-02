@@ -1,4 +1,5 @@
 ---
+title: "Optional-Rules"
 alias:
 - "Optional Rules"
 - "FATE Condensed Optional Rules"

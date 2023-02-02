@@ -1,4 +1,5 @@
 ---
+title: "Investigate"
 alias:
 - "Investigate"
 - "FATE Condensed Investigate"

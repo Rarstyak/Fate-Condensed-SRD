@@ -1,4 +1,5 @@
 ---
+title: "Getting-Started"
 alias:
 - "Getting Started"
 - "FATE Condensed Getting Started"

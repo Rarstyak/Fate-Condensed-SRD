@@ -1,4 +1,5 @@
 ---
+title: "Fate-Condensed-SRD"
 alias:
 - "FATE Condensed"
 - "FATE Condensed SRD"

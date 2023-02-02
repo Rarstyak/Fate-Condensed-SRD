@@ -1,4 +1,5 @@
 ---
+title: "Alternative-Skill-Lists"
 alias:
 - "Alternative Skill Lists"
 - "FATE Condensed Alternative Skill Lists"

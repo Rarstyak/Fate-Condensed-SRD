@@ -1,4 +1,5 @@
 ---
+title: "Setting-Up-Scenes"
 alias:
 - "Setting Up Scenes"
 - "FATE Condensed Setting Up Scenes"

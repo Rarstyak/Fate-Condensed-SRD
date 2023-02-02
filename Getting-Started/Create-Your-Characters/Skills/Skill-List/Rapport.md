@@ -1,4 +1,5 @@
 ---
+title: "Rapport"
 alias:
 - "Rapport"
 - "FATE Condensed Rapport"

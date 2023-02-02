@@ -1,4 +1,5 @@
 ---
+title: "Invoking-Aspects"
 alias:
 - "Invoking Aspects"
 - "FATE Condensed Invoking Aspects"

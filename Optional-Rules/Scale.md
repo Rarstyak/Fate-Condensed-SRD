@@ -1,4 +1,5 @@
 ---
+title: "Scale"
 alias:
 - "Scale"
 - "FATE Condensed Scale"

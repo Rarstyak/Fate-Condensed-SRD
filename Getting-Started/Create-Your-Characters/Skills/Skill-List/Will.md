@@ -1,4 +1,5 @@
 ---
+title: "Will"
 alias:
 - "Will"
 - "FATE Condensed Will"

@@ -1,4 +1,5 @@
 ---
+title: "Invokes"
 alias:
 - "Invokes"
 - "FATE Condensed Invokes"

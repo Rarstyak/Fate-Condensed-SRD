@@ -1,4 +1,5 @@
 ---
+title: "Success"
 alias:
 - "Success"
 - "If you succeed,"

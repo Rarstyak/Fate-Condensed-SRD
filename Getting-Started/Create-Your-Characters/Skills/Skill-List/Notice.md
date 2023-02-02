@@ -1,4 +1,5 @@
 ---
+title: "Notice"
 alias:
 - "Notice"
 - "FATE Condensed Notice"

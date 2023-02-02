@@ -1,4 +1,5 @@
 ---
+title: "Stress-and-Consequences"
 alias:
 - "Stress and Consequences"
 - "FATE Condensed Stress and Consequences"

@@ -1,4 +1,5 @@
 ---
+title: "Challenges"
 alias:
 - "Challenges"
 - "FATE Condensed Challenges"

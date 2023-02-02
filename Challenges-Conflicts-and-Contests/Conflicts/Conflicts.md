@@ -1,4 +1,5 @@
 ---
+title: "Conflicts"
 alias:
 - "Conflicts"
 - "FATE Condensed Conflicts"

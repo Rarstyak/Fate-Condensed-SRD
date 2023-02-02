@@ -1,4 +1,5 @@
 ---
+title: "Credits"
 alias:
 - "Credits"
 - "FATE Condensed Credits"

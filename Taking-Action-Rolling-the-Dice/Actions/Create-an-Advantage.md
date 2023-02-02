@@ -1,4 +1,5 @@
 ---
+title: "Create-an-Advantage"
 alias:
 - "Create an Advantage"
 - "FATE Condensed Create an Advantage"

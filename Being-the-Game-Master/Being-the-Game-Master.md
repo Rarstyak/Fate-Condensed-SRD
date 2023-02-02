@@ -1,4 +1,5 @@
 ---
+title: "Being-the-Game-Master"
 alias:
 - "Being the Game Master"
 - "FATE Condensed Being the Game Master"

@@ -1,4 +1,5 @@
 ---
+title: "Resources"
 alias:
 - "Resources"
 - "FATE Condensed Resources"

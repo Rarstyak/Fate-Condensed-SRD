@@ -1,4 +1,5 @@
 ---
+title: "Boosts"
 alias:
 - "Boosts"
 - "FATE Condensed Boosts"

@@ -1,4 +1,5 @@
 ---
+title: "Ending-a-Conflict"
 alias:
 - "Ending a Conflict"
 - "FATE Condensed Ending a Conflict"

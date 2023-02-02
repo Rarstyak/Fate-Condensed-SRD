@@ -1,4 +1,5 @@
 ---
+title: "Provoke"
 alias:
 - "Provoke"
 - "FATE Condensed Provoke"

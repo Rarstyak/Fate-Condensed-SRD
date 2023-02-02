@@ -1,4 +1,5 @@
 ---
+title: "Faster-Contests"
 alias:
 - "Faster Contests"
 - "FATE Condensed Faster Contests"
@@ -6,7 +7,7 @@ tags:
 - wf/s/FATE/Condensed
 up: "[[Optional-Rules/Optional-Rules]]"
 prev: "[[Optional-Rules/Extreme-Consequences]]"
-next: "[[Optional-Rules/Obstacles]]"
+next: "[[Optional-Rules/Full-Defense]]"
 summary: ""
 ---
 ## Faster Contests

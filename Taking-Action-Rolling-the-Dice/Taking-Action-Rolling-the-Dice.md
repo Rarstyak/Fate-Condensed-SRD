@@ -1,4 +1,5 @@
 ---
+title: "Taking-Action-Rolling-the-Dice"
 alias:
 - "Taking Action, Rolling the Dice"
 - "FATE Condensed Taking Action, Rolling the Dice"

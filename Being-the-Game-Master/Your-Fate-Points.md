@@ -1,4 +1,5 @@
 ---
+title: "Your-Fate-Points"
 alias:
 - "Your Fate Points"
 - "FATE Condensed Your Fate Points"

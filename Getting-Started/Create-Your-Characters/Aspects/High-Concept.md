@@ -1,4 +1,5 @@
 ---
+title: "High-Concept"
 alias:
 - "High Concept"
 - "FATE Condensed High Concept"

@@ -1,4 +1,5 @@
 ---
+title: "Invoking-to-Declare-Story-Details"
 alias:
 - "Invoking to Declare Story Details"
 - "FATE Condensed Invoking to Declare Story Details"

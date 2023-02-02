@@ -1,4 +1,5 @@
 ---
+title: "Aspects"
 alias:
 - "Aspects"
 - "FATE Condensed Aspects"

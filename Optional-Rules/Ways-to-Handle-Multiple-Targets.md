@@ -1,4 +1,5 @@
 ---
+title: "Ways-to-Handle-Multiple-Targets"
 alias:
 - "Ways to Handle Multiple Targets"
 - "FATE Condensed Ways to Handle Multiple Targets"

@@ -1,3 +1,15 @@
+---
+title: "Full-Defense"
+alias:
+- "Full Defense"
+- "FATE Condensed Full Defense"
+tags:
+- wf/s/FATE/Condensed
+up: "[[Optional-Rules/Optional-Rules]]"
+prev: "[[Optional-Rules/Faster-Contests]]"
+next: "[[Optional-Rules/Obstacles]]"
+summary: ""
+---
 ## Full Defense
 
 Sometimes a player (or GM) may want their character to go all-in on using defend until their next turn, rather than taking an action on their turn. This is called **full defense**.

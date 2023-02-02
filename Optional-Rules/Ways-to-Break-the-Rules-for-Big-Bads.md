@@ -1,4 +1,5 @@
 ---
+title: "Ways-to-Break-the-Rules-for-Big-Bads"
 alias:
 - "Ways to Break the Rules for Big Bads"
 - "FATE Condensed Ways to Break the Rules for Big Bads"

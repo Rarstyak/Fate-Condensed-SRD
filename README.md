@@ -1,3 +1,11 @@
+---
+title: "Fate-Condensed-SRD-README"
+alias:
+- "FATE Condensed README"
+- "FATE Condensed SRD README"
+tags:
+- wf/s/FATE/Condensed
+---
 # Fate-Condensed-SRD
 A markdown version of the [Fate Condensed SRD](https://www.faterpg.com/wp-content/uploads/2020/02/Fate-Condensed-SRD-CC-BY.html), for [obsidian.md](https://obsidian.md/) vaults, formatted for the [ObsidianTTRPGShare](https://github.com/ObsidianTTRPGProject/ObsidianTTRPGShare).
 

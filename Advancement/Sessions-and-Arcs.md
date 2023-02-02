@@ -1,4 +1,5 @@
 ---
+title: "Sessions-and-Arcs"
 alias:
 - "Sessions and Arcs"
 - "FATE Condensed Sessions and Arcs"

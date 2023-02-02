@@ -1,4 +1,5 @@
 ---
+title: "Difficulty-and-Opposition"
 alias:
 - "Difficulty and Opposition"
 - "FATE Condensed Difficulty and Opposition"

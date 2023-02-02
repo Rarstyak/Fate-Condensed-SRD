@@ -1,4 +1,5 @@
 ---
+title: "Create-Your-Characters"
 alias:
 - "Create Your Characters"
 - "FATE Condensed Create Your Characters"

@@ -1,4 +1,5 @@
 ---
+title: "Stealth"
 alias:
 - "Stealth"
 - "FATE Condensed Stealth"

@@ -1,3 +1,11 @@
+---
+title: "Fate-Condensed-SRD-RAW"
+alias:
+- "FATE Condensed RAW"
+- "FATE Condensed SRD RAW"
+tags:
+- wf/s/FATE/Condensed
+---
 # Fate Condensed
 
 Fate Condensed ©2020 Evil Hat Productions, LLC.

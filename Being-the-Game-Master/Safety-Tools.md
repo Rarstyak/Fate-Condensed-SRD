@@ -1,4 +1,5 @@
 ---
+title: "Safety-Tools"
 alias:
 - "Safety Tools"
 - "FATE Condensed Safety Tools"

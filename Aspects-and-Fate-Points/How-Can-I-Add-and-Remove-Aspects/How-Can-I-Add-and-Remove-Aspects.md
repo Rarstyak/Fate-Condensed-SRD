@@ -1,4 +1,5 @@
 ---
+title: "How-Can-I-Add-and-Remove-Aspects"
 alias:
 - "Other Kinds of Aspects"
 - "FATE Condensed Other Kinds of Aspects"

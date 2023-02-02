@@ -1,4 +1,5 @@
 ---
+title: "Contacts"
 alias:
 - "Contacts"
 - "FATE Condensed Contacts"

@@ -1,4 +1,5 @@
 ---
+title: "Events-and-Decisions"
 alias:
 - "Events and Decisions"
 - "FATE Condensed Events and Decisions"

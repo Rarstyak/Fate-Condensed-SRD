@@ -1,4 +1,5 @@
 ---
+title: "Lore"
 alias:
 - "Lore"
 - "FATE Condensed Lore"

@@ -1,4 +1,5 @@
 ---
+title: "Changing-the-Skill-List"
 alias:
 - "Changing the Skill List"
 - "FATE Condensed Changing the Skill List"

@@ -1,4 +1,5 @@
 ---
+title: "Finishing-Touches"
 alias:
 - "Finishing Touches"
 - "FATE Condensed Finishing Touches"

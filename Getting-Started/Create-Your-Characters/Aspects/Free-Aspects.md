@@ -1,4 +1,5 @@
 ---
+title: "Free-Aspects"
 alias:
 - "Free Aspects"
 - "FATE Condensed Free Aspects"

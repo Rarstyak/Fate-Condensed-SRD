@@ -1,4 +1,5 @@
 ---
+title: "Zones"
 alias:
 - "Zones"
 - "FATE Condensed Zones"

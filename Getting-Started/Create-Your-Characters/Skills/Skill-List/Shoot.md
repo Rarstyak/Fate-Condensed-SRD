@@ -1,4 +1,5 @@
 ---
+title: "Shoot"
 alias:
 - "Shoot"
 - "FATE Condensed Shoot"

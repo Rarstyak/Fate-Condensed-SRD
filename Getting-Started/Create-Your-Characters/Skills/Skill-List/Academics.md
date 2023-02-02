@@ -1,4 +1,5 @@
 ---
+title: "Academics"
 alias:
 - "Academics"
 - "FATE Condensed Academics"

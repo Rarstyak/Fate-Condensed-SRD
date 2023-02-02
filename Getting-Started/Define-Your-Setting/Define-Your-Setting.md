@@ -1,4 +1,5 @@
 ---
+title: "Define-Your-Setting"
 alias:
 - "Define Your Setting"
 - "FATE Condensed Define Your Setting"

@@ -1,4 +1,5 @@
 ---
+title: "Advancement"
 alias:
 - "Advancement"
 - "FATE Condensed Advancement"

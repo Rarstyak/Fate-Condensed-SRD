@@ -1,4 +1,5 @@
 ---
+title: "What-Kinds-of-Aspects-Are-There"
 alias:
 - "Other Kinds of Aspects"
 - "FATE Condensed Other Kinds of Aspects"

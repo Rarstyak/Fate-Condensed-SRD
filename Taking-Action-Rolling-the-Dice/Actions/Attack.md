@@ -1,4 +1,5 @@
 ---
+title: "Attack"
 alias:
 - "Attack"
 - "FATE Condensed Attack"

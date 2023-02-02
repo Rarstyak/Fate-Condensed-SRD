@@ -1,4 +1,5 @@
 ---
+title: "Challenges-Conflicts-and-Contests"
 alias:
 - "Challenges, Conflicts, and Contests"
 - "FATE Condensed Challenges, Conflicts, and Contests"

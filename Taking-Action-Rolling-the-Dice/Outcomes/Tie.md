@@ -1,4 +1,5 @@
 ---
+title: "Tie"
 alias:
 - "Tie"
 - "If you tie,"

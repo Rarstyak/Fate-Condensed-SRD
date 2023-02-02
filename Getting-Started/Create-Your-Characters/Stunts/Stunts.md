@@ -1,4 +1,5 @@
 ---
+title: "Stunts"
 alias:
 - "Stunts"
 - "FATE Condensed Stunts"

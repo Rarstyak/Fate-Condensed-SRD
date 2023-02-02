@@ -1,4 +1,5 @@
 ---
+title: "Consequences"
 alias:
 - "Consequences"
 - "FATE Condensed Consequences"

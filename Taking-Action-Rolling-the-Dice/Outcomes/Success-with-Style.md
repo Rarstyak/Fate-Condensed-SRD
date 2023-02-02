@@ -1,4 +1,5 @@
 ---
+title: "Success-with-Style"
 alias:
 - "Success with Style"
 - "If you succeed with style,"

@@ -1,4 +1,5 @@
 ---
+title: "Relationship"
 alias:
 - "Relationship"
 - "FATE Condensed Relationship"

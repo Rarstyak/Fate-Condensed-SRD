@@ -1,4 +1,5 @@
 ---
+title: "Compels"
 alias:
 - "Compels"
 - "FATE Condensed Compels"

@@ -1,4 +1,5 @@
 ---
+title: "Modifying-the-Dice"
 alias:
 - "Modifying the Dice"
 - "FATE Condensed Modifying the Dice"

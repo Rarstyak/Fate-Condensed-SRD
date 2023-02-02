@@ -1,4 +1,5 @@
 ---
+title: "Character-Aspects"
 alias:
 - "Character Aspects"
 - "FATE Condensed Character Aspects"

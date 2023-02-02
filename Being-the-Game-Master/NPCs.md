@@ -1,4 +1,5 @@
 ---
+title: "NPCs"
 alias:
 - "NPCs"
 - "FATE Condensed NPCs"

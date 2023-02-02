@@ -1,4 +1,5 @@
 ---
+title: "Trouble"
 alias:
 - "Trouble"
 - "FATE Condensed Trouble"

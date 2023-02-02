@@ -1,4 +1,5 @@
 ---
+title: "Fight"
 alias:
 - "Fight"
 - "FATE Condensed Fight"

@@ -1,4 +1,5 @@
 ---
+title: "Actions"
 alias:
 - "Actions"
 - "FATE Condensed Actions"

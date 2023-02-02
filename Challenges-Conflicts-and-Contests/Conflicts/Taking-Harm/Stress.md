@@ -1,4 +1,5 @@
 ---
+title: "Stress"
 alias:
 - "Stress"
 - "FATE Condensed Stress"

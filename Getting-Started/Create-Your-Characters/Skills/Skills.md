@@ -1,4 +1,5 @@
 ---
+title: "Skills"
 alias:
 - "Skills"
 - "FATE Condensed Skills"

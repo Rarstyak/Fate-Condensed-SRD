@@ -1,4 +1,5 @@
 ---
+title: "Compels-Are-Complications-Not-Stymies"
 alias:
 - "Compels Are Complications Not Stymies"
 - "FATE Condensed Compels Are Complications Not Stymies"

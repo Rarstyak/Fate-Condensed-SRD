@@ -1,4 +1,5 @@
 ---
+title: "Contests"
 alias:
 - "Contests"
 - "FATE Condensed Contests"

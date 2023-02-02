@@ -1,4 +1,5 @@
 ---
+title: "Weapon-and-Armor-Ratings"
 alias:
 - "Weapon and Armor Ratings"
 - "FATE Condensed Weapon and Armor Ratings"

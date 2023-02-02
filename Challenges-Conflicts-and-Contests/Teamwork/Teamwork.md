@@ -1,4 +1,5 @@
 ---
+title: "Teamwork"
 alias:
 - "Teamwork"
 - "FATE Condensed Teamwork"

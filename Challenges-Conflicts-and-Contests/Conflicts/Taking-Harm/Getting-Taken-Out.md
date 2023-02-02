@@ -1,4 +1,5 @@
 ---
+title: "Getting-Taken-Out"
 alias:
 - "Getting Taken Out"
 - "FATE Condensed Getting Taken Out"

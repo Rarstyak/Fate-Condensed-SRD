@@ -1,4 +1,5 @@
 ---
+title: "Situation-Aspects"
 alias:
 - "Situation Aspects"
 - "FATE Condensed Situation Aspects"

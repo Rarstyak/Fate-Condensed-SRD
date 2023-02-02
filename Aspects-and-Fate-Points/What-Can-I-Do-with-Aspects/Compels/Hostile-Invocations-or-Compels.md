@@ -1,4 +1,5 @@
 ---
+title: "Hostile-Invocations-or-Compels"
 alias:
 - "Hostile Invocations or Compels"
 - "FATE Condensed Hostile Invocations or Compels"

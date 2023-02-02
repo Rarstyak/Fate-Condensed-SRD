@@ -1,4 +1,5 @@
 ---
+title: "Fate-Condensed"
 alias:
 - "FATE Condensed License"
 - "Fate Condensed System"

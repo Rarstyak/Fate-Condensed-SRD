@@ -1,4 +1,5 @@
 ---
+title: "Athletics"
 alias:
 - "Athletics"
 - "FATE Condensed Athletics"

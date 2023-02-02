@@ -1,4 +1,5 @@
 ---
+title: "Conditions"
 alias:
 - "Conditions"
 - "FATE Condensed Conditions"

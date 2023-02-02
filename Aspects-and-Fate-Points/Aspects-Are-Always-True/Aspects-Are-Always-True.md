@@ -1,4 +1,5 @@
 ---
+title: "Aspects-Are-Always-True"
 alias:
 - "What Can I Do with Aspects"
 - "FATE Condensed What Can I Do with Aspects"

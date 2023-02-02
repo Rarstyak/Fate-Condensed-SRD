@@ -1,4 +1,5 @@
 ---
+title: "Conceding"
 alias:
 - "Conceding"
 - "FATE Condensed Conceding"

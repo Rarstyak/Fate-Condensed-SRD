@@ -1,4 +1,5 @@
 ---
+title: "Crafts"
 alias:
 - "Crafts"
 - "FATE Condensed Crafts"

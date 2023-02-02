@@ -1,4 +1,5 @@
 ---
+title: "Using-Stunts"
 alias:
 - "Using Stunts"
 - "FATE Condensed Using Stunts"

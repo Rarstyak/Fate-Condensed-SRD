@@ -1,4 +1,5 @@
 ---
+title: "Outcomes"
 alias:
 - "Outcomes"
 - "FATE Condensed Outcomes"
