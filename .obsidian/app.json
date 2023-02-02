@@ -1,8 +1,10 @@
 {
   "livePreview": false,
-  "showFrontmatter": true,
+  "showFrontmatter": false,
   "newLinkFormat": "relative",
   "newFileLocation": "current",
   "useMarkdownLinks": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false,
+  "defaultViewMode": "preview"
 }

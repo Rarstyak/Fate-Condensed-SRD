@@ -54,7 +54,7 @@
   "showRefreshNotice": true,
   "showImpliedRelations": true,
   "showTrail": true,
-  "showGrid": true,
+  "showGrid": false,
   "showJuggl": false,
   "showPrevNext": true,
   "sortByNameShowAlias": false,

@@ -23,7 +23,7 @@ You’ll choose your character’s skill ratings, arranged in a pyramid with the
 - Four Average (+1) skills
 - All other skills at Mediocre (+0)
 
-! [The-Adjective-Ladder](The-Adjective-Ladder/The-Adjective-Ladder.md)
+![The-Adjective-Ladder](The-Adjective-Ladder/The-Adjective-Ladder.md)
 
 ![Skill-List](Skill-List/Skill-List.md)
 
